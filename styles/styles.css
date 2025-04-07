@@ -1,0 +1,23 @@
+table {
+    width: 40%;
+}
+th, td {
+    padding: 10px;
+    color:blanchedalmond;
+    text-align: center;
+    border: 3px solid #8A0000;
+    border-collapse: collapse;
+    border-radius: 7px;
+    border-style: groove;
+}
+th:nth-Child(1) {
+    width: 50px;
+}
+tr:nth-child(even) {
+    background-color: palevioletred;
+}
+tr:nth-child(odd) {
+    background-color:darkcyan;
+}
+th:hover, td:hover {background-color: darkgrey;
+}
