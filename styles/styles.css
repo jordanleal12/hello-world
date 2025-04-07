@@ -21,3 +21,13 @@ tr:nth-child(odd) {
 }
 th:hover, td:hover {background-color: darkgrey;
 }
+.vegan-foods {
+    margin-left: 230px;
+    width: 300px;
+    height: auto;
+}
+.shocked {
+    margin-left: 230px;
+    width: 300px;
+    height: auto;
+}
