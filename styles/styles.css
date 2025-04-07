@@ -26,3 +26,8 @@ th:hover, td:hover {background-color: darkgrey;
     width: 300px;
     height: auto;
 }
+.shocked {
+    margin-left: 230px;
+    width: 300px;
+    height: auto;
+}
